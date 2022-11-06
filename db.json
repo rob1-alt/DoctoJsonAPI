@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "type": "Résumé de test sanguin",
+      "age": 20
+    },
+    {
+      "name": "John",
+      "id": 2,
+      "age": 40
+    },
+    {
+      "id": 3
+    }
+  ]
+}
