@@ -1,6 +1,7 @@
-    [
+    {
+    "01": [
         {
-            "id": 1,
+        "id": 1,
         "type" : "string",
         "title" : "Compte Rendu Sanguin",
         "date" : "04/11/2019",
@@ -20,10 +21,12 @@
         "Monocytes" : "2 à 10",
         "Eosinophiles" : "0 à 5",
         "Basophiles" : "0 à 1"
-        },
+        }
+    ],
+    "02" : [
         {
-            "id": 2,
-            "type" : "string"
+        "id": 2,
+        "type" : "string"
         }
     ]
-    
+    }
