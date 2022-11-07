@@ -1,5 +1,5 @@
     {
-    "01": [
+    "01":
         {
         "id": 1,
         "type" : "string",
@@ -21,12 +21,10 @@
         "Monocytes" : "2 à 10",
         "Eosinophiles" : "0 à 5",
         "Basophiles" : "0 à 1"
-        }
-    ],
-    "02" : [
-        {
+        },
+        
+    "02" : {
         "id": 2,
         "type" : "string"
         }
-    ]
     }
