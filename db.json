@@ -56,7 +56,15 @@
             "Description" : "L'amoxicilline est un antibiotique efficace sur un grand nombre de bactéries. Les espèces bactériennes que l'amoxicilline vise sont plus ou moins sensibles à son action selon la résistance qu'elles ont ou non acquise face à cet antibiotique.",
             "Posologie" : "1 g",
             "Quantite" : "1",
-            "Duree" : "10 jours"
+            "Duree" : "10 jours",
+            "Medicament1" : "Imodium",
+            "Description1" : "Ce médicament est un antidiarrhéique qui agit en ralentissant le transit intestinal et en réduisant les sécrétions intestinales.",
+            "Posologie1" : "1.5g",
+            "Duree1" : "30 jours",
+            "Medicament2" : "LAMALINE",
+            "Description2" : "Traitement symptomatique des douleurs d'intensité modérée à intense et/ou ne répondant pas à l'utilisation d'antalgiques périphériques utilisés seuls.",
+            "Posologie2" : "1 suppositoire/jour",
+            "Duree2" : "30 jours"
     }],
     "04" : [
         {
