@@ -52,6 +52,7 @@
             "Dossier" : "n° 123456789",
             "Patient" : "Antoine Dupont",
             "Medicament" : "Amoxicilline",
+            "description" : "L'amoxicilline est un antibiotique efficace sur un grand nombre de bactéries. Les espèces bactériennes que l'amoxicilline vise sont plus ou moins sensibles à son action selon la résistance qu'elles ont ou non acquise face à cet antibiotique.",
             "Posologie" : "1 g",
             "Quantite" : "1",
             "Duree" : "10 jours"
